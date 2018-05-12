@@ -1,0 +1,29 @@
+_repo: '---_26921'
+_version: 0.1.0
+alternative_title: Yin feng xiao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banyunyou
+    aliases:
+    - Fengjiangbanyunyou
+    - 半雲友
+    - 楓江半雲友
+    gutenberg_agent_id: '32331'
+    url: http://www.gutenberg.org/2009/agents/32331
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26921'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction'
+- !lcc 'PL'
+title: 引鳳蕭
+url: http://www.gutenberg.org/ebooks/26921
